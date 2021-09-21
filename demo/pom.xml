@@ -54,11 +54,11 @@
 	<distributionManagement>
     <snapshotRepository>
       <id>nexusdeploymentrepo</id>
-      <url>http://localhost:9081/repository/maven-snapshots/</url>
+      <url>http://34.70.198.165:8081/repository/maven-snapshot/</url>
     </snapshotRepository>
 	<repository>
 	  <id>nexusdeploymentrepo</id>
-      <url>http://localhost:9081/repository/maven-releases/</url>
+      <url>http://34.70.198.165:8081/repository/maven-realease/</url>
     </repository>
   
   </distributionManagement>
